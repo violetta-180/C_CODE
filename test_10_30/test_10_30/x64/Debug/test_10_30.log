@@ -1,0 +1,4 @@
+﻿  game.c
+J:\c\test_10_30\test_10_30\game.c(15,24): warning C4028: 形参 1 与声明不一致
+J:\c\test_10_30\test_10_30\game.c(36,19): warning C4028: 形参 1 与声明不一致
+  test_10_30.vcxproj -> J:\c\test_10_30\x64\Debug\test_10_30.exe
