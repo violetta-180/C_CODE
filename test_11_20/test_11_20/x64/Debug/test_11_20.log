@@ -1,0 +1,4 @@
+﻿  test.c
+D:\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_wstdio.h(309,9): error C1060: 编译器的堆空间不足
+  (编译源文件“test.c”)
+  
