@@ -1,0 +1,3 @@
+﻿  test.c
+J:\c\test_11_28\test_11_28\test.c(52,1): warning C4716: “my_memcpy”: 必须返回一个值
+  test_11_28.vcxproj -> J:\c\test_11_28\x64\Debug\test_11_28.exe
